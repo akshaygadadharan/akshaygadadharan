@@ -27,21 +27,11 @@ Welcome to my GitHub profile!
 - 🛡️ Cybersecurity labs & CTF challenges
 - 🌍 Open-source contributions
 
-📈 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=akshaygadadharan&show_icons=true&theme=tokyonight)
-
-🔥 GitHub Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=akshaygadadharan&theme=tokyonight)
-
-💻 Most Used Languages
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=akshaygadadharan&layout=compact&theme=tokyonight)
 
 🌐 Connect With Me
 
 •  GitHub: https://github.com/akshaygadadharan
+
 •   Instgram:  https://www.instagram.com/___aksheyyy?igsh=YTBubmx4b3N3aXlp
 
 ---
